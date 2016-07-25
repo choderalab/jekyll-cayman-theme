@@ -1,8 +1,8 @@
 # Setup
 title:        smml.io
 tagline:      Exploring the interface of statistical mechanics and machine learning
-url:          https://choderalab.github.io/
-baseurl:      smml
+url:          https://choderalab.github.io/smml/
+baseurl:      https://choderalab.github.io/smml/
 paginate:     1
 
 # About/contact
