@@ -11,6 +11,7 @@ published: true
 Inference-based machine learning and statistical mechanics share deep isomorphisms, and utilize many of the same computational techniques (such as efficient techniques for Markov chain Monte Carlo sampling).
 Despite this, there has been historically poor communication between these two fields.
 This meeting---the first of its kind---brings together key people from both communities to find common ground and exciting new opportunities at the interface.
+{: .text-justify}
 
 ## Date
 
