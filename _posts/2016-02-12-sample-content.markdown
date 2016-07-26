@@ -6,7 +6,7 @@ categories: schedule
 published: true
 ---
 
-# smml-2017
+# smml:2017
 
 Inference-based machine learning and statistical mechanics share deep isomorphisms, and utilize many of the same computational techniques (such as efficient techniques for Markov chain Monte Carlo sampling).
 Despite this, there has been historically poor communication between these two fields.
@@ -15,9 +15,9 @@ This meeting---the first of its kind---brings together key people from both comm
 
 ## Date
 
-**smml-2017** will take place Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P.
+**smml:2017** will take place Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P.
 
-**smml-2017** is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html) (which runs Fri 13 Jan 2017 4.00P - Sun 15 Jan 2.00P).
+**smml:2017** is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html) (which runs Fri 13 Jan 2017 4.00P - Sun 15 Jan 2.00P).
 
 ## Location
 
