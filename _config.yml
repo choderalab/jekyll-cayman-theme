@@ -17,6 +17,9 @@ author:
   name:       John D. Chodera
   url:        https://choderalab.org
 
+# Custom vars
+version:          2.1.0
+
 # Gems
 gems:
   - jekyll-paginate
