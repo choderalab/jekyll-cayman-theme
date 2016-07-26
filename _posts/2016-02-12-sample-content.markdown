@@ -6,29 +6,31 @@ categories: schedule
 published: true
 ---
 
-->  **smml-2017** <-
+# smml-2017
 
 Inference-based machine learning and statistical mechanics share deep isomorphisms, and utilize many of the same computational techniques (such as efficient techniques for Markov chain Monte Carlo sampling).
 Despite this, there has been historically poor communication between these two fields.
 This meeting---the first of its kind---brings together key people from both communities to find common ground and exciting new opportunities at the interface.
 
-# Date
+## Date
 
 Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P
 
 This is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html) that runs Fri 13 Jan 2017 4.00P - Sun 15 Jan 2.00P.
 
-# Location
+## Location
 
-[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs) . [from.tells.clouds](http://w3w.co/from.tells.clouds)
+[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  ( [from.tells.clouds](http://w3w.co/from.tells.clouds) )
 
-# Organizers
+## Organizers
+
 * [John D. Chodera](http://choderalab.org) (Sloan Kettering Institute) `<john.chodera@choderalab.org>`
 * [Gavin E. Crooks](http://threeplusone.com/gec/) (Lawrence Berkeley National Laboratory) `<gecrooks@lbl.gov>`
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (University of Chicago) `<dinner@uchicago.edu>`
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford University / a16z) `<pande@stanford.edu>`
 
-# Topics
+## Topics
+
 * Isomorphisms between statistical mechanics and statistical inference
 * Efficient integrators for sampling from intractable distributions
   - Stochastic gradient methods
@@ -41,7 +43,8 @@ This is a satellite meeting that takes place immediately before the [Berkeley St
 * What stat mech can do for machine learning?
 * What machine learning can do for stat mech?
 
-# Invited Participants
+## Invited Participants
+
 * [Ryan Prescott Adams](http://people.seas.harvard.edu/~rpa/) (Harvard)
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC)
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL)
@@ -64,8 +67,12 @@ This is a satellite meeting that takes place immediately before the [Berkeley St
 * [Max Welling](https://www.ics.uci.edu/~welling/) (UCI/UvA)
 * [Huafeng Xu](https://www.deshawresearch.com/people_c-b_xu.html) (DESRES)
 
-# Registration
+## Registration
 
 Please indicate your interest in attending on [lanyrd](http://lanyrd.com/2017/smml/).
 
-There are no registration fees for this meeting.
+There are no registration fees for this meeting, but participants will be responsible for their own travel expenses.
+
+## Questions
+
+Please contact John Chodera `<john.chodera@choderalab.org>` for questions.
