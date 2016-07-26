@@ -6,6 +6,8 @@ categories: schedule
 published: true
 ---
 
+->  **smml-2017** <-
+
 Inference-based machine learning and statistical mechanics share deep isomorphisms, and utilize many of the same computational techniques (such as efficient techniques for Markov chain Monte Carlo sampling).
 Despite this, there has been historically poor communication between these two fields.
 This meeting---the first of its kind---brings together key people from both communities to find common ground and exciting new opportunities at the interface.
@@ -64,6 +66,6 @@ This is a satellite meeting that takes place immediately before the [Berkeley St
 
 # Registration
 
-[//]: # Please register [here](http://www.google.com).
+Please indicate your interest in attending on [lanyrd](http://lanyrd.com/2017/smml/).
 
 There are no registration fees for this meeting.
