@@ -21,7 +21,7 @@ This meeting---the first of its kind---brings together key people from both comm
 
 ## Location
 
-[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  ([from.tells.clouds](http://w3w.co/from.tells.clouds))
+[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  (what3words: [from.tells.clouds](http://w3w.co/from.tells.clouds))
 
 ## Organizers
 
