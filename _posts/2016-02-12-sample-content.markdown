@@ -6,6 +6,10 @@ categories: schedule
 published: true
 ---
 
+Inference-based machine learning and statistical mechanics share deep isomorphisms, and utilize many of the same computational techniques (such as efficient techniques for Markov chain Monte Carlo sampling).
+Despite this, there has been historically poor communication between these two fields.
+This meeting---the first of its kind---is an attempt to bring together key people from both communities to find common ground and exciting opportunities at the **interface between statistical mechanics and machine learning**.
+
 # Date
 
 Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P
@@ -14,16 +18,13 @@ This is a satellite meeting that takes place immediately before the [Berkeley St
 
 # Location
 
-[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)
-
-[from.tells.clouds](http://w3w.co/from.tells.clouds)
+[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs) . [from.tells.clouds](http://w3w.co/from.tells.clouds)
 
 # Organizers
 * [John D. Chodera](http://choderalab.org) (Sloan Kettering Institute) `<john.chodera@choderalab.org>`
 * [Gavin E. Crooks](http://threeplusone.com/gec/) (Lawrence Berkeley National Laboratory) `<gecrooks@lbl.gov>`
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (University of Chicago) `<dinner@uchicago.edu>`
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford University / a16z) `<pande@stanford.edu>`
-
 
 # Topics
 * Isomorphisms between statistical mechanics and statistical inference
@@ -63,6 +64,6 @@ This is a satellite meeting that takes place immediately before the [Berkeley St
 
 # Registration
 
-#Please register [here](http://www.google.com).
+[//]: # Please register [here](http://www.google.com).
 
 There are no registration fees for this meeting.
