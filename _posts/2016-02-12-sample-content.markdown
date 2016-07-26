@@ -51,7 +51,7 @@ This meeting---the first of its kind---brings together key people from both comm
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL)
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford)
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
-* [Alyson Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
+* [Alyson "Allie" Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
 * [Zoubin Gharamani](http://mlg.eng.cam.ac.uk/zoubin/) (Cambridge)
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
