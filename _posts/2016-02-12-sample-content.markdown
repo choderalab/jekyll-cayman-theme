@@ -14,13 +14,13 @@ This meeting---the first of its kind---brings together key people from both comm
 
 ## Date
 
-Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P
+**smml-2017** will take place Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P.
 
-This is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html) that runs Fri 13 Jan 2017 4.00P - Sun 15 Jan 2.00P.
+**smml-2017** is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html) (which runs Fri 13 Jan 2017 4.00P - Sun 15 Jan 2.00P).
 
 ## Location
 
-[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  ( [from.tells.clouds](http://w3w.co/from.tells.clouds) )
+[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  ([from.tells.clouds](http://w3w.co/from.tells.clouds))
 
 ## Organizers
 
