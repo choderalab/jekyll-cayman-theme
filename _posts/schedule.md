@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title:  Conference schedule
 date:   2016-07-26
 categories: schedule
+published: true
 ---
 
 # Date
