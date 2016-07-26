@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:        "smml.io : statistical mechanics // machine learning"
+title:        "statistical mechanics // machine learning"
 tagline:      "Exploring the interface of statistical mechanics and machine learning"
 url:          https://choderalab.github.io/smml/
 baseurl:      https://choderalab.github.io/smml/
