@@ -6,7 +6,7 @@ categories: schedule
 published: true
 ---
 
-# smml-2017 : Statistical Mechanics // Machine Learning
+# smml-2017
 
 Inference-based machine learning and statistical mechanics share deep isomorphisms, and utilize many of the same computational techniques (such as efficient techniques for Markov chain Monte Carlo sampling).
 Despite this, there has been historically poor communication between these two fields.
