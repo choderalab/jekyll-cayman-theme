@@ -68,9 +68,9 @@ This meeting---the first of its kind---brings together key people from both comm
 
 ## Registration
 
-All participants must preregister on [lanyrd](http://lanyrd.com/2017/smml/) by 20 Dec 2016.
+All participants must preregister on [lanyrd](http://lanyrd.com/2017/smml/) by **20 Dec 2016**.
 
-There are no registration fees for *smml:2017*, but participants will be responsible for their own travel expenses.
+There are no registration fees, but participants will be responsible for their own travel expenses.
 
 ## Lodging
 
