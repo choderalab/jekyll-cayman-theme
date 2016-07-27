@@ -68,13 +68,13 @@ This meeting---the first of its kind---brings together key people from both comm
 
 ## Registration
 
-Please indicate your interest in attending on [lanyrd](http://lanyrd.com/2017/smml/).
+All participants must preregister on [lanyrd](http://lanyrd.com/2017/smml/) by 20 Dec 2016.
 
 There are no registration fees for this meeting, but participants will be responsible for their own travel expenses.
 
 ## Lodging
 
-The Berkeley Stat Mech meeting provides a [list of recommended nearby hotels](http://gold.cchem.berkeley.edu/statmech/hotel-accommodations.html). 
+The Berkeley Stat Mech meeting provides a [list of recommended nearby hotels](http://gold.cchem.berkeley.edu/statmech/hotel-accommodations.html).
 
 ## Meals
 
