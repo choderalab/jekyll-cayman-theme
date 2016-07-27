@@ -7,7 +7,7 @@ published: true
 ---
 
 [date](#date) | [location](#location) | [organizers](#organizers) | [topics](#topics) | [participants](#invited-participants) | [registration](#registration) | [lodging](#lodging) | [questions](#questions)
-{: .project-tagline}
+{: .top-links}
 
 # smml:2017
 
