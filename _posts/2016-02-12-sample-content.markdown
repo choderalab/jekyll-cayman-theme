@@ -6,9 +6,8 @@ categories: schedule
 published: true
 ---
 
-<center>
 [date](#date) | [location](#location) | [organizers](#organizers) | [topics](#topics) | [participants](#invited-participants) | [registration](#registration) | [lodging](#lodging) | [questions](#questions)
-</center>
+{: .project-tagline}
 
 # smml:2017
 
