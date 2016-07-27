@@ -80,7 +80,11 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 ## Registration
 <a name="registration"></a>
 
-All participants must preregister on [lanyrd](http://lanyrd.com/2017/smml/) by **20 Dec 2016**.
+All participants must preregister on [lanyrd](http://lanyrd.com/2017/smml/) by **20 Dec 2016**:
+
+1. Click "Sign In"
+2. Register with your Twitter or LinkedIn account (or create a new account)
+3. Click "I'm Attending this event"
 
 There are no registration fees, but participants will be responsible for their own travel expenses.
 
