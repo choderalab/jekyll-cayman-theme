@@ -15,7 +15,7 @@ This meeting---the first of its kind---brings together key people from both comm
 
 ## Date
 
-**smml:2017** is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html), and will take place Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P.
+**smml:2017** is a satellite meeting that takes place immediately before the [Berkeley Stat Mech Meeting](http://gold.cchem.berkeley.edu/statmech/current-meeting.html), and will take place **Thu 12 Jan 2017 @ 9.00A - Fri 13 Jan 2017 @ 2.00P**.
 
 ## Location
 
