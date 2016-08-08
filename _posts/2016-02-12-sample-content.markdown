@@ -49,8 +49,8 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * Efficient model comparison and its relation to free energy calculations
   - Nonequilibrium methods for model comparison; optimal algorithms/estimators/paths
   - Relative vs absolute: Model evidences, Bayes factors, and free energies
-* What stat mech can do for machine learning?
-* What machine learning can do for stat mech?
+* What can stat mech do for machine learning?
+* What can machine learning do for stat mech?
 
 ## Invited Participants
 <a name="invited-participants"></a>
