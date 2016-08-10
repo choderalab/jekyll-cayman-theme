@@ -41,16 +41,11 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 <a name="topics"></a>
 
 * Isomorphisms between statistical mechanics and statistical inference
-* Efficient integrators for sampling from intractable distributions
-  - Stochastic gradient methods
-  - Metropolized/unmetropolized integrators and timestep issues
-  - Sampling on GPUs and other architectures with limited/fixed precision
-* Validating machine learning implementations with statistical mechanics
-* Efficient model comparison and its relation to free energy calculations
-  - Nonequilibrium methods for model comparison; optimal algorithms/estimators/paths
-  - Relative vs absolute: Model evidences, Bayes factors, and free energies
 * What can stat mech do for machine learning?
 * What can machine learning do for stat mech?
+* Efficient integrators for sampling from intractable distributions
+* Validating machine learning implementations using stat mech principles
+* Efficient model comparison and its relation to free energy calculation (nonequilibrium methods for model comparison, relative/absolute model evidences, Bayes factors, and free energies)
 
 ## Invited Participants
 <a name="invited-participants"></a>
@@ -67,7 +62,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford)
 * [Liam Paninski](http://www.stat.columbia.edu/~liam/) (Columbia)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
-* [Danilo Rezende](https://twitter.com/deepspiker)
+* [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
 * [Ruslan Salakhutdinov](http://www.cs.toronto.edu/~rsalakhu/) (CMU)
 * [Scott C. Schmidler](http://www2.stat.duke.edu/~scs/) (Duke)
 * [David A. Sivak](http://www.sfu.ca/physics/sivakgroup.html) (Simon Fraser)
