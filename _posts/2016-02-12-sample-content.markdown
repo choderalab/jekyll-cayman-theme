@@ -52,6 +52,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 
 * [Ryan Prescott Adams](http://people.seas.harvard.edu/~rpa/) (Harvard)
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC)
+* [Cecilia Clementi](https://chemistry.rice.edu/FacultyDetail.aspx?RiceID=238) (Rice)
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL)
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford)
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
@@ -59,6 +60,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
 * [Zoubin Gharamani](http://mlg.eng.cam.ac.uk/zoubin/) (Cambridge)
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
+* [Frank No&eacute;](http://compmolbio.biocomputing-berlin.de/) (Freie Universit&auml;t Berlin)
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford)
 * [Liam Paninski](http://www.stat.columbia.edu/~liam/) (Columbia)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
