@@ -59,11 +59,12 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
 * [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems)
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
-* [Vijay S. Pande](https://pande.stanford.edu/) (Stanford)
+* [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
 * [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google)
 * [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago)
+* [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford)
 
 ## Registration
 <a name="registration"></a>
