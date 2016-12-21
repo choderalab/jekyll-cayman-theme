@@ -51,7 +51,6 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 <a name="confirmed-participants"></a>
 
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC)
-* [Cecilia Clementi](https://chemistry.rice.edu/FacultyDetail.aspx?RiceID=238) (Rice)
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL)
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford)
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
@@ -63,7 +62,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
 * [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google)
-* [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago)
+* [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
 * [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford)
 
 ## Registration
