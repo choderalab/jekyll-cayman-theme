@@ -61,7 +61,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
-* [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google)
+* [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep Unsupervised Learning using Nonequilibrium Thermodynamics*
 * [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
 * [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford)
 
