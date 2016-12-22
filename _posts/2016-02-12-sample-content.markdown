@@ -52,7 +52,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC)
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL)
-* [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: scientific crowdsourcing with experiments in the loop*
+* [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop*
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
 * [Alyson "Allie" Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
@@ -61,7 +61,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
-* [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep Unsupervised Learning using Nonequilibrium Thermodynamics*
+* [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep unsupervised learning using nonequilibrium thermodynamics*
 * [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
 * [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford)
 
