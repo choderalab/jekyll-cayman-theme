@@ -52,7 +52,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC)
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL)
-* [Rhiju Das](https://daslab.stanford.edu/) (Stanford)
+* [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: scientific crowdsourcing with experiments in the loop*
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
 * [Alyson "Allie" Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
