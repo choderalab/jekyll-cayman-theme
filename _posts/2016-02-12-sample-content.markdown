@@ -56,7 +56,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
 * [Alyson "Allie" Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
-* [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems)
+* [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) - *Sampling low-dissipation protocols*
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
