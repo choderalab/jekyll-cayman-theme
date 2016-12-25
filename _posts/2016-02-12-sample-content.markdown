@@ -50,16 +50,16 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 ## Confirmed participants
 <a name="confirmed-participants"></a>
 
-* [John D. Chodera](http://choderalab.org) (SKI/MSKCC)
-* [Gavin E. Crooks](http://threeplusone.com) (LBNL)
+* [John D. Chodera](http://choderalab.org) (SKI/MSKCC) - discussion moderator
+* [Gavin E. Crooks](http://threeplusone.com) (LBNL) - discussion moderator
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop*
-* [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago)
+* [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) - discussion moderator
 * [Alyson "Allie" Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
 * [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) - *Sampling low-dissipation protocols*
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
-* [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton)
+* [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) - *Black box variational inference for probabilistic generative models*
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
 * [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep unsupervised learning using nonequilibrium thermodynamics*
 * [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
