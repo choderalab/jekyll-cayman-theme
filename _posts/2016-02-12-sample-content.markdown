@@ -55,7 +55,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop*
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) - discussion moderator
 * [Alyson "Allie" Fletcher](http://www.stat.ucla.edu/~akfletcher/) (UCLA)
-* [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford)
+* [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford) - *Statistical mechanics of learning and inference in high dimensions*
 * [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) - *Sampling low-dissipation protocols*
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
