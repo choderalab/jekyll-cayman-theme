@@ -60,7 +60,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) - *Black box variational inference for probabilistic generative models*
-* [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind)
+* [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind) - *Are deep generative models effective field theory machines?*
 * [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep unsupervised learning using nonequilibrium thermodynamics*
 * [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
 * [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford) - *Entropy and bias in data exploration*
