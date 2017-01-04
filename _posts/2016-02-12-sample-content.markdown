@@ -50,14 +50,15 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 ## Confirmed participants
 <a name="confirmed-participants"></a>
 
+* [Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/) (UCSC) - *TBA*
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC) - discussion moderator
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL) - discussion moderator
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop*
 * [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) - discussion moderator
 * [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford) - *Statistical mechanics of learning and inference in high dimensions*
 * [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) - *Sampling low-dissipation protocols*
-* [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence)
-* [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z)
+* [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence) - *Bayesian Inference on Graphs as Hypothesis Testing*
+* [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) - discussion moderator
 * [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) - *Black box variational inference for probabilistic generative models*
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind) - *Are deep generative models effective field theory machines?*
 * [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep unsupervised learning using nonequilibrium thermodynamics*
