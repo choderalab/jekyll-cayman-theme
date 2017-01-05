@@ -50,7 +50,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 ## Confirmed participants
 <a name="confirmed-participants"></a>
 
-* [Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/) (UCSC) - *TBA*
+* [Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/) (UCSC) - *Partition function estimation via error-correcting codes*
 * [John D. Chodera](http://choderalab.org) (SKI/MSKCC) - discussion moderator
 * [Gavin E. Crooks](http://threeplusone.com) (LBNL) - discussion moderator
 * [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop*
