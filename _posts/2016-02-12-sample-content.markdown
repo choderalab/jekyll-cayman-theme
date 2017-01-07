@@ -59,7 +59,7 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) - *Sampling low-dissipation protocols*
 * [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence) - *Bayesian Inference on Graphs as Hypothesis Testing*
 * [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) - discussion moderator
-* [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) - *Black box variational inference for probabilistic generative models*
+* [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) - *Operator variational inference*
 * [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind) - *Are deep generative models effective field theory machines?*
 * [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep unsupervised learning using nonequilibrium thermodynamics*
 * [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
