@@ -6,7 +6,7 @@ categories: schedule
 published: true
 ---
 
-[date](#date) | [location](#location) | [organizers](#organizers) | [topics](#topics) | [participants](#invited-participants) | [registration](#registration) | [lodging](#lodging) | [questions](#questions)
+[date](#date) | [location](#location) | [organizers](#organizers) | [topics](#topics) | [schedule](#schedule) | [registration](#registration) | [lodging](#lodging) | [questions](#questions)
 {: .top-links}
 
 # smml:2017
@@ -47,30 +47,46 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 * Validating machine learning implementations using stat mech principles
 * Efficient model comparison and its relation to free energy calculation (nonequilibrium methods for model comparison, relative/absolute model evidences, Bayes factors, and free energies)
 
-## Confirmed participants
-<a name="confirmed-participants"></a>
+## Schedule
+<a name="schedule"></a>
 
-* [Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/) (UCSC) - *Partition function estimation via error-correcting codes*
-* [John D. Chodera](http://choderalab.org) (SKI/MSKCC) - discussion moderator
-* [Gavin E. Crooks](http://threeplusone.com) (LBNL) - discussion moderator
-* [Rhiju Das](https://daslab.stanford.edu/) (Stanford) - *Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop*
-* [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) - discussion moderator
-* [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford) - *Statistical mechanics of learning and inference in high dimensions*
-* [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) - *Sampling low-dissipation protocols*
-* [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence) - *Bayesian Inference on Graphs as Hypothesis Testing*
-* [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) - discussion moderator
-* [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) - *Operator variational inference*
-* [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind) - *Are deep generative models effective field theory machines?*
-* [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) - *Deep unsupervised learning using nonequilibrium thermodynamics*
-* [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) - *Some ensemble methods for faster MCMC*
-* [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford) - *Entropy and bias in data exploration*
+Talks are 30 min (including roughly 10 min of introductory material and 20 min of problem, application, and opportunities) followed by 15 min of discussion.
+All speakers have been requested to bring a slide of provocative questions and ideas to stimulate discussion.
+
+### Thu 12 Jan
+
+| 9.00A | coffee and pastries | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
+| 9.25A | [John D. Chodera](http://choderalab.org) (SKI/MSKCC) | welcome remarks |
+|       | [Gavin E. Crooks](http://threeplusone.com) (LBNL) | discussion moderator |
+| 9.30A | [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) | Deep unsupervised learning using nonequilibrium thermodynamics |
+| 10.15A | [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) | Sampling low-dissipation protocols |
+| 11.00A | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
+| 11.30A | [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) | Some ensemble methods for faster MCMC |
+| 12.15P | lunch on your own | [local restaurants](http://gold.cchem.berkeley.edu/statmech/recommended-restaurants.html) |
+|       | [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) | discussion moderator |
+| 2.00P | [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind) | Are deep generative models effective field theory machines? |
+| 2.45P | [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence) | Bayesian inference on graphs as hypothesis testing |
+| 3.30P | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
+| 4.00P | [James Zou](https://sites.google.com/site/jamesyzou/) (Stanford) | Entropy and bias in data exploration |
+| 4.45P | [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) | moderated discussion |
+| 5.30P | end of day 1 | |
+
+### Fri 13 Jan
+
+| 9.00A | coffee and pastries | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
+|       | [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) | discussion moderator |
+| 9.30A | [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) | Operator variational inference |
+| 10.15A | [Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/) (UCSC) | Partition function estimation via error-correcting codes |
+| 11.00A | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
+| 11.30A | [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford) | Statistical mechanics of learning and inference in high dimensions |
+| 12.15P | [Rhiju Das](https://daslab.stanford.edu/) (Stanford) | Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop |
+| 1.00P | [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) and [John D. Chodera](http://choderalab.org) (SKI/MSKCC) | wrap-up discussion |
+| 1.30P | end of day 2 | |
 
 ## Registration
 <a name="registration"></a>
 
-All participants must [register via EventBrite](https://www.eventbrite.com/e/smml2017-tickets-26819698440) by **20 Dec 2016**:
-
-There are no registration fees, but participants will be responsible for their own travel expenses.
+Registration is now closed, as the meeting is at full capacity.
 
 ## Lodging
 <a name="lodging"></a>
