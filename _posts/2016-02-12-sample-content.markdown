@@ -57,17 +57,13 @@ All speakers have been requested to bring a slide of provocative questions and i
 
 | 9.00A | coffee and pastries | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
 | 9.25A | [John D. Chodera](http://choderalab.org) (SKI/MSKCC) | welcome remarks |
-
-[Gavin E. Crooks](http://threeplusone.com) (LBNL) *discussion moderator*
-
+| 9.30A | [Gavin E. Crooks](http://threeplusone.com) (LBNL) | *discussion moderator* |
 | 9.30A | [Jascha Sohl-Dickstein](http://www.sohldickstein.com/) (Google) | Deep unsupervised learning using nonequilibrium thermodynamics |
 | 10.15A | [Todd Gingrich](http://www.mit.edu/~toddging/) (MIT, Physics of Living Systems) | Sampling low-dissipation protocols |
 | 11.00A | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
 | 11.30A | [Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml) (U Chicago) | Some ensemble methods for faster MCMC |
 | 12.15P | lunch on your own | [local restaurants](http://gold.cchem.berkeley.edu/statmech/recommended-restaurants.html) |
-
-[Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) *discussion moderator*
-
+| 2.00P | [Vijay S. Pande](https://pande.stanford.edu/) (Stanford / a16z) | *discussion moderator* |
 | 2.00P | [Danilo Rezende](https://twitter.com/deepspiker) (Google DeepMind) | Are deep generative models effective field theory machines? |
 | 2.45P | [Theofanis Karaletsos](https://twitter.com/Tkaraletsos) (Geometric Intelligence) | Bayesian inference on graphs as hypothesis testing |
 | 3.30P | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
@@ -78,13 +74,13 @@ All speakers have been requested to bring a slide of provocative questions and i
 ### Fri 13 Jan
 
 | 9.00A | coffee and pastries | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
-|       | [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) | discussion moderator |
-| 9.30A | [Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/) (Princeton) | Operator variational inference |
-| 10.15A | [Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/) (UCSC) | Partition function estimation via error-correcting codes |
+| 9.30A | [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) | *discussion moderator* |
+| 9.30A | **[Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/)** (Princeton) | Operator variational inference |
+| 10.15A | **[Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/)** (UCSC) | Partition function estimation via error-correcting codes |
 | 11.00A | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
-| 11.30A | [Surya Ganguli](https://ganguli-gang.stanford.edu/) (Stanford) | Statistical mechanics of learning and inference in high dimensions |
-| 12.15P | [Rhiju Das](https://daslab.stanford.edu/) (Stanford) | Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop |
-| 1.00P | [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) and [John D. Chodera](http://choderalab.org) (SKI/MSKCC) | wrap-up discussion |
+| 11.30A | **[Surya Ganguli](https://ganguli-gang.stanford.edu/)** (Stanford) | Statistical mechanics of learning and inference in high dimensions |
+| 12.15P | **[Rhiju Das](https://daslab.stanford.edu/)** (Stanford) | Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop |
+| 1.00P | **[Aaron R. Dinner](http://dinner-group.uchicago.edu/)** (U Chicago) and [John D. Chodera](http://choderalab.org) (SKI/MSKCC) | wrap-up discussion |
 | 1.30P | end of day 2 | |
 
 ## Registration
