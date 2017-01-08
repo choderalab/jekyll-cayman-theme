@@ -56,7 +56,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 ### Thu 12 Jan
 
 | 9.00A | coffee and pastries | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
-| 9.25A | [John D. Chodera](http://choderalab.org) (SKI/MSKCC) | welcome remarks |
+| 9.25A | [John D. Chodera](http://choderalab.org) (MSKCC) | *welcome remarks* |
 | 9.30A | [Gavin E. Crooks](http://threeplusone.com) (LBNL) | *discussion moderator* |
 | 9.30A | **[Jascha Sohl-Dickstein](http://www.sohldickstein.com/)** (Google) | Deep unsupervised learning using nonequilibrium thermodynamics |
 | 10.15A | **[Todd Gingrich](http://www.mit.edu/~toddging/)** (MIT, Physics of Living Systems) | Sampling low-dissipation protocols |
@@ -80,7 +80,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 | 11.00A | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
 | 11.30A | **[Surya Ganguli](https://ganguli-gang.stanford.edu/)** (Stanford) | Statistical mechanics of learning and inference in high dimensions |
 | 12.15P | **[Rhiju Das](https://daslab.stanford.edu/)** (Stanford) | Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop |
-| 1.00P | **[Aaron R. Dinner](http://dinner-group.uchicago.edu/)** (U Chicago) / **[John D. Chodera](http://choderalab.org)** (SKI/MSKCC) | wrap-up discussion |
+| 1.00P | **[Aaron R. Dinner](http://dinner-group.uchicago.edu/)** (U Chicago) / **[John D. Chodera](http://choderalab.org)** (MSKCC) | wrap-up discussion |
 | 1.30P | end of day 2 | |
 
 ## Registration
