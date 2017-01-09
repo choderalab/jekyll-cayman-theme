@@ -69,7 +69,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 | 3.30P | coffee break (30 min) | [180 Tan Hall](https://goo.gl/maps/nBgw7u7isWs) |
 | 4.00P | **[James Zou](https://sites.google.com/site/jamesyzou/)** (Stanford) | Entropy and bias in data exploration |
 | 4.45P | **[Vijay S. Pande](https://pande.stanford.edu/)** (Stanford / a16z) | moderated discussion |
-| 5.30P | end of day 1 | |
+| 5.30P | dinner on your own | [local restaurants](http://gold.cchem.berkeley.edu/statmech/recommended-restaurants.html) |
 
 ### Fri 13 Jan
 
