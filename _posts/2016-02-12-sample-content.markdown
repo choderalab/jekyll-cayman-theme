@@ -81,7 +81,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 | 11.30A | **[Surya Ganguli](https://ganguli-gang.stanford.edu/)** (Stanford) | Statistical mechanics of learning and inference in high dimensions |
 | 12.15P | **[Rhiju Das](https://daslab.stanford.edu/)** (Stanford) | Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop |
 | 1.00P | **[Aaron R. Dinner](http://dinner-group.uchicago.edu/)** (U Chicago) / **[John D. Chodera](http://choderalab.org)** (MSKCC) | wrap-up discussion |
-| 1.30P | end of day 2 | |
+| 1.30P | lunch on your own | [local restaurants](http://gold.cchem.berkeley.edu/statmech/recommended-restaurants.html) |
 
 ## Registration
 <a name="registration"></a>
