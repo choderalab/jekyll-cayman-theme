@@ -27,7 +27,12 @@ The meeting will feature a series of short talks on [various topics](#topics) of
 ## Location
 <a name="location"></a>
 
-[180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  (what3words: [from.tells.clouds](http://w3w.co/from.tells.clouds))
+**Due to last-minute technical difficulties with our original venue, the workshop has been moved to 50 Birge Hall, a short distance away (~500 ft).**
+
+<!-- [180 Tan Hall, University of California, Berkeley](https://goo.gl/maps/nBgw7u7isWs)  (what3words: [from.tells.clouds](http://w3w.co/from.tells.clouds)) -->
+[50 Birge Hall, University of California, Berkeley](https://goo.gl/maps/C1aW1e98gFT2)  (what3words: [rewarding.custom.spider](https://map.what3words.com/rewarding.custom.spider))
+
+[50 Birge Hall](https://classrooms.berkeley.edu/classrooms/50-birge) also has a capacity of 159, allowing us to admit more people from the waitlist.
 
 ## Organizers
 <a name="organizers"></a>
