@@ -91,7 +91,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 ## Registration
 <a name="registration"></a>
 
-Registration is now closed, as the meeting is at full capacity.
+Please register via Eventbrite [using this link](https://www.eventbrite.com/e/smml2017-tickets-26819698440).
 
 ## Lodging
 <a name="lodging"></a>
