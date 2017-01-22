@@ -73,7 +73,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 | 2.45P | **[Theofanis Karaletsos](https://twitter.com/Tkaraletsos)** (Geometric Intelligence) | Bayesian inference on graphs as hypothesis testing |
 | 3.30P | coffee break (30 min) | [50 Birge Hall](https://goo.gl/maps/C1aW1e98gFT2) |
 | 4.00P | **[James Zou](https://sites.google.com/site/jamesyzou/)** (Stanford) | Entropy and bias in data exploration |
-| 4.45P | **[Vijay S. Pande](https://pande.stanford.edu/)** (Stanford / a16z) | moderated discussion |
+| 4.45P | **[Vijay S. Pande](https://pande.stanford.edu/)** (Stanford / a16z) | [moderated discussion]({{ site.url}}/downloads/pande-discussion-summary.jpg) |
 | 5.30P | dinner on your own | [local restaurants](http://gold.cchem.berkeley.edu/statmech/recommended-restaurants.html) |
 
 ### Fri 13 Jan
@@ -81,7 +81,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 | 9.00A | coffee and pastries | [50 Birge Hall](https://goo.gl/maps/C1aW1e98gFT2) |
 | 9.30A | [Aaron R. Dinner](http://dinner-group.uchicago.edu/) (U Chicago) | *discussion moderator* |
 | 9.30A | **[Rajesh Ranganath](https://www.cs.princeton.edu/~rajeshr/)** (Princeton) | Operator variational inference |
-| 10.15A | **[Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/)** (UCSC) | Partition function estimation via error-correcting codes |
+| 10.15A | **[Dimitris Achlioptas](https://users.soe.ucsc.edu/~optas/)** (UCSC) | [Partition function estimation via error-correcting codes]({{ site.url }}/downloads/Achlioptas_SMML_talk.pdf) |
 | 11.00A | coffee break (30 min) | [50 Birge Hall](https://goo.gl/maps/C1aW1e98gFT2) |
 | 11.30A | **[Surya Ganguli](https://ganguli-gang.stanford.edu/)** (Stanford) | Statistical mechanics of learning and inference in high dimensions |
 | 12.15P | **[Rhiju Das](https://daslab.stanford.edu/)** (Stanford) | Eterna: Crowdsourcing RNA engineering with stat mech, experiments, and machine learning in the loop |
