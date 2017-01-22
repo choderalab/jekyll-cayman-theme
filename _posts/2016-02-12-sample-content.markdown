@@ -63,7 +63,7 @@ All speakers have been requested to bring a slide of provocative questions and i
 | 9.00A | coffee and pastries | [50 Birge Hall](https://goo.gl/maps/C1aW1e98gFT2) |
 | 9.25A | [John D. Chodera](http://choderalab.org) (MSKCC) | *welcome remarks* |
 | 9.30A | [Gavin E. Crooks](http://threeplusone.com) (LBNL) | *discussion moderator* |
-| 9.30A | **[Jascha Sohl-Dickstein](http://www.sohldickstein.com/)** (Google) | Deep unsupervised learning using nonequilibrium thermodynamics |
+| 9.30A | **[Jascha Sohl-Dickstein](http://www.sohldickstein.com/)** (Google) | [Deep unsupervised learning using nonequilibrium thermodynamics]({{ site.url }}/downloads/SMML2017%20Jascha%20Sohl-Dickstein.pdf) |
 | 10.15A | **[Todd Gingrich](http://www.mit.edu/~toddging/)** (MIT, Physics of Living Systems) | Sampling low-dissipation protocols |
 | 11.00A | coffee break (30 min) | [50 Birge Hall](https://goo.gl/maps/C1aW1e98gFT2) |
 | 11.30A | **[Jonathan Weare](https://galton.uchicago.edu/faculty/weare.shtml)** (U Chicago) | Some ensemble methods for faster MCMC |
